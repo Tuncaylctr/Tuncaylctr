@@ -16,11 +16,15 @@ AWS · Azure
 
 ---
 
+
 ## 📈 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuncaylctr&show_icons=true&theme=transparent&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaylctr&layout=compact&theme=transparent&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=tuncaylctr&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuncaylctr&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaylctr&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tuncaylctr&theme=tokyonight)
+
 
 ---
 
