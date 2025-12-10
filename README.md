@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Tuncaylctr/Tuncaylctr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+**Languages:**  
+Python · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Libraries:**  
+NumPy · Pandas
+
+**Tools:**  
+Git · MySQL
+
+**Cloud:**  
+AWS · Azure
+
+
+---
+
+## 📈 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuncaylctr&show_icons=true&theme=transparent&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaylctr&layout=compact&theme=transparent&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=tuncaylctr&theme=transparent&hide_border=true)
+
+---
+
+## 🌐 Connect
+
+[Instagram](https://instagram.com/tuncaylctr) · [LinkedIn](https://www.linkedin.com/in/tuncaylctr/) · [Email](mailto:tunjay.huseynli@gmail.com)
+
