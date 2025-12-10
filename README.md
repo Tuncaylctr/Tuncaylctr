@@ -8,7 +8,7 @@ Python · SQL
 NumPy · Pandas
 
 **Tools:**  
-Git · MySQL
+Git 
 
 **Cloud:**  
 AWS · Azure
