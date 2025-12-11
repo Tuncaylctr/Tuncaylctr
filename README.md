@@ -33,14 +33,7 @@
 
 ---
 
-# 📊 GitHub Stats (Neon Theme)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuncaylctr&show_icons=true&hide_border=true&count_private=true&bg_color=0B0B0B&title_color=00E5FF&text_color=FFFFFF&icon_color=9D4EDD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncaylctr&layout=compact&hide_border=true&bg_color=0B0B0B&title_color=00E5FF&text_color=FFFFFF&icon_color=9D4EDD" />
-</p>
-
----
 
 
 ## 🌐 Connect
