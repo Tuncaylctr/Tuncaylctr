@@ -4,13 +4,13 @@
 **Languages:**  
 Python · SQL
 
-**LLM Model Interaction**
+**LLM Model Interaction:**
 Prompt Engineering · OpenAI API · Hugging Faces
 
 **Tools:**  
 Git 
 
-**Learning**
+**Learning:**
 LangChain · RAG · AI Agents · MCP · LLMOps 
 
 
