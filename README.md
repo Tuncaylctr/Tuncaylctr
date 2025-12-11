@@ -4,14 +4,15 @@
 **Languages:**  
 Python · SQL
 
-**Frameworks & Libraries:**  
-NumPy · Pandas
+**LLM Model Interaction**
+Prompt Engineering · OpenAI API · Hugging Faces
 
 **Tools:**  
 Git 
 
-**Cloud:**  
-AWS · Azure
+**Learning**
+LangChain · RAG · AI Agents · MCP · LLMOps 
+
 
 
 ---
