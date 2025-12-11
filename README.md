@@ -1,21 +1,20 @@
+🔧 Technologies & Tools
+💻 Languages
 
-## 🔧 Technologies & Tools
+🐍 Python · 🗄️ SQL
 
-**Languages:**  
-Python · SQL
+🤖 LLM & AI Interaction
 
-**LLM Model Interaction:**
-Prompt Engineering · OpenAI API · Hugging Faces
+🎯 Prompt Engineering · 🔗 OpenAI API · 🤗 Hugging Face
 
-**Tools:**  
-Git 
+🛠️ Tools
 
-**Learning:**
-LangChain · RAG · AI Agents · MCP · LLMOps 
+🧭 Git
 
+📚 Currently Learning
 
-
----
+🔗 LangChain · 🧩 RAG (Retrieval-Augmented Generation)
+🤖 AI Agents · 🧠 MCP · ⚙️ LLMOps
 
 
 ## 🌐 Connect
