@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Data+Engineer+in+Progress...;Building+AI+Pipelines+%26+Smart+Agents;Turning+Data+Into+Impact">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Just+trying+to+make+AI+do+cool+stuff.;Learning+one+bug+at+a+time.;Powered+by+coffee+%26+curiosity.">
 </p>
 
 ---
