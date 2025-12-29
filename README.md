@@ -7,7 +7,7 @@
 
 # Technologies & Tools
 
-### 💻 Languages  
+### Languages  
 Python · SQL  
 
 ### LLM & AI Interaction  
