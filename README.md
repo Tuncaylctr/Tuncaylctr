@@ -5,23 +5,23 @@
 
 ---
 
-# 🔧 Technologies & Tools
+# Technologies & Tools
 
 ### 💻 Languages  
-🐍 Python · 🗄️ SQL  
+Python · SQL  
 
-### 🤖 LLM & AI Interaction  
-🎯 Prompt Engineering · 🔗 OpenAI API · 🤗 Hugging Face  
+### LLM & AI Interaction  
+Prompt Engineering · OpenAI API · Hugging Face  
 
-### 🛠 Tools  
-🧭 Git  
+### Tools  
+Git  
 
-### 📚 Currently Learning  
-🔗 LangChain · 🧩 RAG · 🤖 AI Agents · 🧠 MCP · ⚙️ LLMOps  
+### Currently Learning  
+LangChain · RAG · AI Agents · MCP · LLMOps  
 
 ---
 
-# 🚀 Tech Stack 
+# Tech Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black" />
@@ -36,7 +36,7 @@
 
 
 
-## 🌐 Connect
+## Connect
 
 [Instagram](https://instagram.com/tuncaylctr) · [LinkedIn](https://www.linkedin.com/in/tuncaylctr/) · [Email](mailto:tunjay.huseynli@gmail.com)
 
