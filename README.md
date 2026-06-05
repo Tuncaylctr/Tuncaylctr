@@ -11,13 +11,13 @@
 Python · SQL  
 
 ### BACKEND & APIS
-FastAPI ·  REST APIs · JWT auth
+FastAPI ·  REST APIs 
 
 ### Tools  
-Git · Docker · pytest · Linux CLI  
+Git  
 
 ### Currently Learning  
-LangChain · RAG · AI Agents · MCP · LLMOps  
+JWT auth · Docker · pytest · Linux CLI · PostgreSQL · SQLAlchemy
 
 ### AI / LLM (exploratory)
 Hugging Face · Pandas · scikit-learn · Transformers
