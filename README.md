@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Just+trying+to+make+AI+do+cool+stuff.;Learning+one+bug+at+a+time.">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Learning+one+bug+at+a+time.">
 </p>
 
 ---
@@ -10,25 +10,29 @@
 ### Languages  
 Python · SQL  
 
-### LLM & AI Interaction  
-Prompt Engineering · OpenAI API · Hugging Face  
+### BACKEND & APIS
+FastAPI ·  REST APIs · JWT auth
 
 ### Tools  
-Git  
+Git · Docker · pytest · Linux CLI  
 
 ### Currently Learning  
 LangChain · RAG · AI Agents · MCP · LLMOps  
+
+### AI / LLM (exploratory)
+Hugging Face · Pandas · scikit-learn · Transformers
 
 ---
 
 # Tech Stack 
 
+# Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-00E5FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/HuggingFace-9D4EDD?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2C2C2C?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-085041?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-185FA5?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-444441?style=for-the-badge&logo=git&logoColor=white" />
+
 </p>
 
 ---
