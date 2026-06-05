@@ -24,8 +24,6 @@ Hugging Face · Pandas · scikit-learn · Transformers
 
 ---
 
-# Tech Stack 
-
 # Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-085041?style=for-the-badge&logo=fastapi&logoColor=white" />
