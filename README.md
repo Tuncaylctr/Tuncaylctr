@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=1000&lines=Learning+one+bug+at+a+time.;Junior+Python+Backend+Developer.">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=1000&lines=Learning+one+bug+at+a+time.;Still+googling+things.">
 </p>
 
 <p align="center">
